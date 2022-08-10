@@ -1,59 +1,59 @@
 city,x,y
-Algiers , 38.0,331.0
-Oran , -78.0,289.0
-Constantine,157.0,312.0
-Blida, 27.0,320.0
-Batna,122.0, 280.0
-Sétif, 118.0, 305.0
-Djelfa,43.0, 244.0
-Annaba, 185.0,335.0
-Sidi Bel Abbès,-84.0,239.0
-Biskra,130.0,248.0
-Tébessa,189.0,260.0
-Tiaret,-14.0,259.0
-Bejaïa,94.0,330.0
-Tlemcen ,-120.0,257.0
-Bordj Bou Arreridj,89.0,302.0
-Béchar,-114.0,121.0
-Skikda,159.0,329.0
-Souk Ahras,192.0,306.0
-Chlef , -26.0,316.0
-M’Sila,72.0,276.0
-Mostaganem, -53.0,302.0
-Médéa,32.0,301.0
-Tizi Ouzou,75.0,329.0
-El Oued,172.0,190.0
-Laghouat,28.0,204.0
-Ouargla,145.0,114.0
-Jijel,128.0,330.0
-Relizane, -41.0,289.0
-Saïda, -47.0,246.0
-Guelma,176.0,315.0
-Ghardaïa,63.0,162.0
-Mascara,-84.0,239.0
-Khenchela,163.0,262.0
-Oum el Bouaghi,167.0,294.0
-El Bayadh,-26.0,166.0
-Tamanrasset,93.0,-159.0
-Tissemsilt,-3.0,289.0
-Bouira,64.0,308.0
-Adrar,-90.0,-50.0
-Tindouf,-254.0,-16.0
-Boumerdes,55.0,332.0
-El Tarf,202.0,329.0
-Tipasa, 5.0,330.0
-Illizi,188.0,8.0
-Naama,-86.0,196.0
-Aïn Temouchent,-92.0,272.0
-Aïn Defla,3.0,306.0
-Mila,137.0,310.0
-Ouled Djellal,95.0,229.0
-El M'Ghair,126.0,216.0
-Touggourt,142.0,183.0
-El Meniaa,41.0,96.0
-Béni Abbès,-150.0,54.0
-Timimoune,-34.0,59.0
-In Salah,61.0,-15.0
-Bordj Badji Mokhtar,-76.0,-169.0
-Djanet,241.0,-141.0
-In Guezzam,85.0,-298.0
+Algiers,38,331
+Oran,-78,289
+Constantine,157,312
+Blida,47,310
+Batna,144,280
+Setif,118,305
+Djelfa,43,244
+Annaba,185,335
+Sidi Bel Abbes,-84,239
+Biskra,130,248
+Tebessa,189,260
+Tiaret,-14,259
+Bejaia,94,330
+Tlemcen,-117,250
+Bordj Bou Arreridj,89,302
+Bechar,-114,121
+Skikda,159,329
+Souk Ahras,192,306
+Chlef,-26,316
+M'Sila,72,276
+Mostaganem,-53,302
+Medea,32,301
+Tizi Ouzou,75,329
+El Oued,172,190
+Laghouat,28,204
+Ouargla,145,114
+Jijel,128,330
+Relizane,-41,289
+Saida,-47,246
+Guelma,176,315
+Ghardaia,63,162
+Mascara,-84,239
+Khenchela,163,262
+Oum el Bouaghi,167,294
+El Bayadh,-26,166
+Tamanrasset,93,-159
+Tissemsilt,-3,289
+Bouira,64,308
+Adrar,-90,-50
+Tindouf,-254,-16
+Boumerdes,55,332
+El Tarf,202,329
+Tipasa,5,330
+Illizi,188,8
+Naama,-86,196
+Ain Temouchent,-92,272
+Ain Defla,3,306
+Mila,137,310
+Ouled Djellal,95,229
+El M'Ghair,126,216
+Touggourt,142,183
+El Meniaa,41,96
+Beni Abbès,-150,54
+Timimoune,-34,59
+In Salah,61,-15
+Bordj Badji Mokhtar,-76,-169
+Djanet,241,-141
+In Guezzam,85,-298
