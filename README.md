@@ -8,9 +8,9 @@ print on the map.
 
 You must know that:
 
-1.if you want to see **the solution** you can just type ``Solution`` which is a map of all the cities in Algeria.
+1. if you want to see **the solution** you can just type ``Solution`` which is a map of all the cities in Algeria.
 
-2.if you want to **exit** the game type ```Exit```.
+2. if you want to **exit** the game type ```Exit```.
 
 then the game will generate a "missing_cities.scv" file that contain all the missing cities in your answers.
 
