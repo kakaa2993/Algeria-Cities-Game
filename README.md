@@ -18,4 +18,8 @@ then the game will generate a "missing_cities.scv" file that contain all the mis
 ## The Game Looks:
 ![plot](./Capture.PNG)
 
+If you type ```solution```:
+
+![plot](./Capture2.PNG)
+
 Have fun!
