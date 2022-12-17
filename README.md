@@ -1,6 +1,8 @@
-<h1 align="center" >Algeria Cities Game</h1>
+<h1 align="center" >Algeria Cities Game </h1>
+
 ## About The Project
-A small game build using the <a href="">**turtle python library**</a>.
+
+A small game build using the <a href="https://docs.python.org/3/library/turtle.html">Turtle Python Library</a>.
 The goal of this project is for education purposes, and for having fun.
 
 ## How To Play The Game:
