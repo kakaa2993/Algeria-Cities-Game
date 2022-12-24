@@ -1,4 +1,4 @@
-<h1 align="center" >Algeria Cities Game </h1>
+<h1 align="center" >Algeria Cities Game  🇩🇿</h1>
 
 ## About The Project
 
