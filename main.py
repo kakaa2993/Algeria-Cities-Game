@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 from turtle import Screen
 from game_brain import GameBrain
 
