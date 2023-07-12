@@ -2,7 +2,7 @@
 
 ## About The Project
 
-A small game build using the <a href="https://docs.python.org/3/library/turtle.html">Turtle Python Library</a>.
+A small game built using the <a href="https://docs.python.org/3/library/turtle.html">Turtle Python Library</a>.
 The goal of this project is for education purposes, and for having fun.
 
 ## How To Play The Game:
