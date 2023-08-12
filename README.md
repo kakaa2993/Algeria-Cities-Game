@@ -1,11 +1,11 @@
 <h1 align="center" >Algeria Cities Game  🇩🇿</h1>
-
 <div align='center'>  
   <img src='./Capture2.PNG'/>
 </div>
 
 ## About The Project
 A small game built using the <a href="https://docs.python.org/3/library/turtle.html">Turtle Python Library</a>.
+
 The goal of this project is for education purposes, and for having fun.
 
 
